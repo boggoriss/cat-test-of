@@ -240,5 +240,5 @@
 
 ###### *У меня аллергия на котов((((*
 
-[1][https://docs.nestjs.com/]
-[2][https://orkhan.gitbook.io/typeorm/docs]
+[1]: (https://docs.nestjs.com/)
+[2]: (https://orkhan.gitbook.io/typeorm/docs)
