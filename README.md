@@ -239,3 +239,6 @@
 ![kitten_image](https://www.petmd.com/sites/default/files/styles/article_image/public/small-kitten-walking-towards_127900829_0.jpg?itok=ah_gTtbS)
 
 ###### *У меня аллергия на котов((((*
+
+[1][https://docs.nestjs.com/]
+[2][https://orkhan.gitbook.io/typeorm/docs]
